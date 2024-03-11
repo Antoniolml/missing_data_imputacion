@@ -12,7 +12,7 @@ dependencies:
   - jupyterlab
   - keras
   - lightgbm
-  - matplotlib
+  - matplotlib==3.5.1
   - missingno
   - nbdime
   - numpy
